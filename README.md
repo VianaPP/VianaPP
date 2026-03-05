@@ -16,22 +16,25 @@ Além disso, possuo experiência em **CTEM (Continuous Threat Exposure Managemen
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)  
 
 **Ferramentas & Plataformas**  
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=azure&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white) 
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft-Sentinel-0078D4?logo=microsoft&logoColor=white) 
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?logo=microsoft&logoColor=white) 
+![Microsoft Defender For Cloud](https://img.shields.io/badge/Microsoft_Defender-cyan) 
+![Intune](https://img.shields.io/badge/Intune-lightgreen) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) 
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) 
 
 **Frameworks & Normas**  
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red) 
-![Cyber Kill Chain](https://img.shields.io/badge/Cyber-Kill%20Chain-darkblue) 
-![NIST](https://img.shields.io/badge/NIST-Framework-lightgrey) 
-![ISO 27001](https://img.shields.io/badge/ISO-27001-green) 
-![PCI-DSS](https://img.shields.io/badge/PCI-DSS-orange)  
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-red) 
+![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill%20Chain-darkblue) 
+![NIST](https://img.shields.io/badge/NIST_Framework-purple) 
+![ISO 27001](https://img.shields.io/badge/ISO_27001-green) 
+![PCI-DSS](https://img.shields.io/badge/PCI_DSS-yellow)  
 
 **Certificações**  
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white) 
